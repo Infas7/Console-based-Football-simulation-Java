@@ -39,4 +39,4 @@ as well. The UML class diagram  is included with the files.Once the game is star
 probability to the goalie. A randomly generated number can be used with the probability value to
 decide whether there is a goal or not. This can be extend to decide whether the ball is passed to the
 team mate successfully or not, ball goes out of the field or not, who receives the ball and etc. In
-addition, you do not need to consider penalties</i>
+addition, No need to consider penalties</i>
